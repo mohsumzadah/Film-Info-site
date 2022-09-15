@@ -1,0 +1,46 @@
+.btn {
+	border-radius: 5px;
+	padding: 8px 15px;
+	text-decoration: none;
+
+	transition: .3s;
+
+}
+
+
+.inblue_text_white {
+	background-color: #2d4b6d;
+	color: #fff;
+}
+
+.inblue_text_white:hover {
+	background-color: #fff;
+	color: #2d4b6d;
+	border: 1px solid #2d4b6d;
+}
+
+
+
+.inwhite-text_blue {
+	background-color: #fff;
+	color: #346ead;
+	border: 1px solid #2d4b6d;
+}
+
+.inwhite-text_blue:hover {
+	background-color: #2d4b6d;
+	color: #fff;
+}
+
+
+.inorange-text_white {
+	background-color: #ff9781;
+	color: #fff;
+	
+}
+
+.inorange-text_white:hover {
+	background-color: #fff;
+	color: #ff9781;
+	border: 1px solid #2d4b6d;
+}
